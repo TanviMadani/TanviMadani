@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hi%20there,%20I'm%20Tanvi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Modern%20Web&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo3MTFvaHJ3Ymh1c3BqZGRmc3ljNGd3a3Q4MTN1Z3AxaGJrOGd0cCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 <a href="https://tanvi-madani-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00C9A7?style=for-the-badge&labelColor=0F2027" />
