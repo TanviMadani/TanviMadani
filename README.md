@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hi%20there,%20I'm%20Tanvi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Modern%20Web&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://tanvi-madani-portfolio.vercel.app/">
