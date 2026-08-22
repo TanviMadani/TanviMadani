@@ -1,5 +1,9 @@
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo3MTFvaHJ3Ymh1c3BqZGRmc3ljNGd3a3Q4MTN1Z3AxaGJrOGd0cCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+<p align="center">
+ 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo3MTFvaHJ3Ymh1c3BqZGRmc3ljNGd3a3Q4MTN1Z3AxaGJrOGd0cCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</p>
+
 
 <a href="https://tanvi-madani-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00C9A7?style=for-the-badge&labelColor=0F2027" />
